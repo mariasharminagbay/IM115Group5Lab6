@@ -1,3 +1,7 @@
+body{
+ background-color:#FFF8DC;
+}
+
 h1{
 font-size:65px;
 font-family:Freestyle Script;
@@ -14,6 +18,15 @@ font-size:25px;
 .sub-topic{
 	font-family:French Script MT;
 	font-size:50px;
+	text-align: center;
+	color: #580000;
+
+}
+
+.description
+{
+  font-family:Berlin Sans FB;
+  font-size:23px;
 	text-align: center;
 	color: #580000;
 
