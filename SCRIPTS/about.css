@@ -256,7 +256,13 @@ main{
 	
 }
 
-
+.img2 {
+  float: none;
+  border-radius: 50%;
+  margin-top: 3%;
+  width: 200px;
+  height: 200px;
+}
 
 table{
 	width:75%;
