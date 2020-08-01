@@ -1,0 +1,97 @@
+body{
+    background-color:#23ad84;
+   }
+   
+   h1{
+   font-size:65px;
+   font-family:Bradley Hand, cursive;
+   color:#100731;	
+   text-align: center;
+   }
+   
+   h3{
+   font-family:Chalkduster, fantasy;
+   color:#100731;
+   font-size:25px;
+   }
+   
+   .sub-topic{
+       font-family:Luminari, fantasy;
+       font-size:36px;
+       text-align: center;
+       color: #100731;
+   
+   }
+   
+   .description
+   {
+     font-family:Berlin Sans FB;
+     font-size:23px;
+       text-align: center;
+       color: #05030a;
+   
+   }
+   
+   .flex-container {
+     display: flex;
+     height: 350px;
+     align-items: center;
+     background-color: #b8dfeb;
+   }
+   
+   .flex-container > div {
+   
+     width: 50px;
+     margin: 10px;
+     text-align: center;
+     line-height: 105px;
+     
+   }
+   
+   .cover{
+       width: 1105px; 
+       height:295px;
+       margin-left: 20px;
+       margin-top:40px;	
+   }
+   
+   .flex-long {
+     display: flex;
+     height: 900px;
+     background-color: #a879a4;
+   }
+   
+   .flex-long > div {
+     background-color:#a879a4;
+     color: black;
+     width: 400px;
+     margin: 10px;
+     text-align: center;
+     line-height: 75px;
+     font-size: 25px;
+   }
+   
+   .flex-Occassions{
+     justify-content: center;
+     display: flex;
+     height: 350px;
+     align-items: center;
+     background-color: #e8f383;
+   }
+   
+   h4{
+   font-size:25px;
+   font-family:Berlin Sans FB;
+   color:black;	
+   text-align: center;
+   }
+   
+   .text{
+   background: url(\IMAGE\SpiceMix4.jpg);
+   font-size:25px;
+   font-family:Berlin Sans FB;
+   color:black;	
+   text-align: center;
+   
+   }
+   
