@@ -18,7 +18,7 @@ header,footer{
 }
 .center{
 
-	dispaly:block;
+	/*dispaly:block;*/
 	margin-left:100px;
 	margin-right:50px;
 	width:100%;
@@ -33,17 +33,16 @@ body{
 }
 
 .container{
-	max-width: 1100px
-	margin:auto;
+	max-width: 1100px;
+	margin:auto;}
 
-}
 p
 {
 	color:black;
 }
 .text-primary{
 
-	color:#3693ff
+	color:#3693ff;
 }
 
 .bg-light{
@@ -78,7 +77,7 @@ p
 }
 
 #navbar li a{
-	text-decoration:none
+	text-decoration:none;
 	color:#fff;
 	padding:1rem;
 	font-size:1.3rem;
@@ -95,7 +94,7 @@ p
 }
 /*Show case*/
 #showcase{
-	background:url(Team-Building-Wallpaper.jpg) no-repeat center center/cover;
+	background:url('../IMAGE/Team-Building-Wallpaper.jpg') no-repeat center center/cover;
 	height:40vh;
 
 }
@@ -111,7 +110,7 @@ p
 	left:0;
 	bottom:0;
 	right:0;
-	background:rgba(0,0,0,0.6)
+	background:rgba(0,0,0,0.6);
 
 }
 
@@ -150,7 +149,7 @@ main{
 
   justify-content: center;
   display: flex;
-  height: 350px;
+  height: 375px;
   align-items: center;
   text-align: center;
   font-size: 25px;
@@ -164,7 +163,7 @@ main{
 
   justify-content: center;
   display: flex;
-  height: 350px;
+  height: 375px;
   align-items: center;
   text-align: center;
   font-size: 25px;
@@ -175,7 +174,7 @@ main{
 
   justify-content: center;
   display: flex;
-  height: 350px;
+  height: 375px;
   align-items: center;
   text-align: center;
   font-size: 25px;
@@ -186,7 +185,7 @@ main{
 #web_des,#prog,#docum{
 	float:none;
 	width:50%;
-	height:50%
+	height:50%;
 	
 }
 
@@ -218,12 +217,12 @@ main{
 	clear:both;
 	font-size:0.8em;
 	font-style:italic;
-	width:100%
+	width:100%;
 	left:0;
 	bottom:0;
 	color:black;
 	float:bottom;
-	display:inline-block
+	display:inline-block;
 	text-align:center;	
 	
 }
