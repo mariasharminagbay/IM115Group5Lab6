@@ -1,5 +1,14 @@
 body{
-    background-color:#23ad84;
+    background-color:#66e7c0;
+   }
+   header{
+       font-size: 30px;
+    position: fixed;
+    margin-left: 1050px;
+   }
+   topnav{
+    overflow: hidden;
+    background-color: #333;
    }
    
    h1{
@@ -10,7 +19,7 @@ body{
    }
    
    h3{
-   font-family:Chalkduster, fantasy;
+   font-family:Apple Chancery, cursive;
    color:#100731;
    font-size:25px;
    }
@@ -71,7 +80,10 @@ body{
      font-size: 25px;
    }
    
-   .flex-Occassions{
+   .flex-Milk{
+    background-image: url(../IMAGE/SpiceMix4.jpg);
+    background-size: cover;
+    background-position: center;
      justify-content: center;
      display: flex;
      height: 350px;
@@ -80,17 +92,17 @@ body{
    }
    
    h4{
-   font-size:25px;
-   font-family:Berlin Sans FB;
-   color:black;	
+   font-size:30px;
+   font-family:Jazz LET, fantasy;
+   color:#13522b;	
    text-align: center;
    }
    
    .text{
-   background: url(\IMAGE\SpiceMix4.jpg);
+   
    font-size:25px;
-   font-family:Berlin Sans FB;
-   color:black;	
+   font-family:Trattatello, fantasy;
+   color:darkblue;	
    text-align: center;
    
    }
