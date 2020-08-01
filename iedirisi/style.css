@@ -15,6 +15,13 @@ color:#9f8170;
 font-size:25px;
 }
 
+.go-back 
+{
+text-align: right;
+font-size: medium;
+
+}
+
 .sub-topic{
 	font-family:French Script MT;
 	font-size:50px;
