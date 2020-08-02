@@ -41,12 +41,7 @@ body{
    
    }
    
-   .flex-container {
-     display: flex;
-     height: 350px;
-     align-items: center;
-     background-color: #b8dfeb;
-   }
+   
    
    .flex-container > div {
    
