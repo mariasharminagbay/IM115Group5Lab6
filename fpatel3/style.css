@@ -39,25 +39,8 @@ body{
        text-align: center;
        color: #05030a;
    
-   }
-   
-   
-   
-   .flex-container > div {
-   
-     width: 50px;
-     margin: 10px;
-     text-align: center;
-     line-height: 105px;
-     
-   }
-   
-   .cover{
-       width: 1105px; 
-       height:295px;
-       margin-left: 20px;
-       margin-top:40px;	
-   }
+   } 
+
    
    .flex-long {
      display: flex;
